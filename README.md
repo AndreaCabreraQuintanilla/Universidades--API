@@ -1,4 +1,4 @@
-# Proyecto Universidades-API Andrea Cabrera
+# Universidades-API Andrea Cabrera
 
 ## Descripción
 En esta proyecto trabajamos en un proyecto para una empresa que realiza un estudio de universidades por el mundo. El proyecto tiene como objetivo identificar todas las universidades ubicadas en tres países específicos: Estados Unidos, Canadá y Argentina.
