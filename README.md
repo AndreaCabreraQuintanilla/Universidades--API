@@ -1,7 +1,7 @@
-# DA_promoE_Mod2_Evaluacion2_Sprint2_AndreaCabrera
+# Proyecto API universidades
 
 ## Descripción
-Este proyecto contiene el código en Python necesario para hacer los ejercicios propuestos en base cualquier tipo de archivo.
+En esta proyecto nos enfrentamos a un desafío emocionante de trabajar en un proyecto real para una empresa que realiza un estudio de universidades por el mundo. El proyecto tiene como objetivo identificar todas las universidades ubicadas en tres países específicos: Estados Unidos, Canadá y Argentina.
 
 ## Motivación para la realización de este proyecto
 
