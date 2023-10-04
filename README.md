@@ -1,11 +1,11 @@
-# Proyecto API universidades
+# Proyecto universidades
 
 ## Descripción
-En esta proyecto nos enfrentamos a un desafío emocionante de trabajar en un proyecto real para una empresa que realiza un estudio de universidades por el mundo. El proyecto tiene como objetivo identificar todas las universidades ubicadas en tres países específicos: Estados Unidos, Canadá y Argentina.
+En esta proyecto trabajamos en un proyecto para una empresa que realiza un estudio de universidades por el mundo. El proyecto tiene como objetivo identificar todas las universidades ubicadas en tres países específicos: Estados Unidos, Canadá y Argentina.
 
 ## Motivación para la realización de este proyecto
 
-Practicar los conceptos estudiados durante toda la segunda parte del módulo 2, relacionado con EDA, limpieza y ETL.
+Practicar los conceptos estudiados durante toda la segunda parte del módulo 2 del bootcamp de Data Analytics de Adalab, relacionado con EDA, limpieza y ETL.
 
 ## Estructura de las carpetas 
 
