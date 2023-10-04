@@ -17,6 +17,7 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
 
 ## Lenguajes utilizados
 * Python 3.10.11
+* SQL
 
 ## Librerias utilizadas
 * [Numpy](https://numpy.org/)
