@@ -19,6 +19,46 @@ Por otro lado, en la carpeta de 'evaluacion' encontramos el jupyter utilizado pa
 * Python 3.10.11
 * SQL
 
+## Estructuras utilizadas
+* Python:
+  * API's
+  * Dataframes - Series
+  * Carga y guardado de datos
+  * Métodos de pandas
+  * EDA
+  * Limpieza de datos
+  * Unión de datos
+  * Apply
+  * ETL
+  * Clases
+  * Funciones
+  * Constructor
+  * Rutas relativas
+  * Condicionales If
+  * Bucles for
+  * Listas
+  * Tuplas
+  * Diccionarios
+  * Métodos de strings
+  * Métodos de listas
+  * Métodos de tuplas
+  * Métodos de diccionarios
+  * Try...except
+  * Contol de errores
+  * Código defensivo
+
+* SQL:
+  * CREATE TABLE
+  * CREATE SCHEMA
+  * Tipos de datos
+  * AUTO_INCREMENT
+  * NOT NULL
+  * PRIMARY KEY
+  * FOREIGN KEY
+  * REFERENCES
+  * INSERT INTO
+  * VALUES
+
 ## Librerias utilizadas
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
